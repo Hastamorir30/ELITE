@@ -1,0 +1,6 @@
+{
+  "name": "Elite Tech CRM - Multi-Tenant Business OS",
+  "description": "Configurable multi-tenant CRM and business operating system for service businesses, starting with Elite Tech Auto Detailing in Miami, FL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
